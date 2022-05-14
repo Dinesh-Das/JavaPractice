@@ -16,4 +16,4 @@ public class exp {
 // b) No error because its not main method
 // c) output =This is an display function
 // this is an main function
-// d) Run time error
+// d) Run time error                          Correct option

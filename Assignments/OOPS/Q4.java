@@ -4,9 +4,6 @@ interface myinterface{
     void method1();
     }
     
-public class Q4 {
-    
-}
 
 // Identify the error
 // 1.code is error free

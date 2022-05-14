@@ -9,7 +9,7 @@ public class Static {
     int b=20;
    public static void fun1()
    {
-//    System.out.println(b); 
+   // System.out.println(b); 
    }
 }   
 }
