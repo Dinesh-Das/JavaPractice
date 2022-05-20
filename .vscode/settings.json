@@ -2,8 +2,10 @@
     "java.project.sourcePaths": [
         "Practice",
         "Module 1",
+        "JavaMock/BusBookingSystem",
+        "Collection_Practice",
         "Challenges",
         "Assignments",
-        "Collection_Practice"
+        "JavaMock/BillingSystem"
     ]
 }

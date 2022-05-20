@@ -1,4 +1,5 @@
 public class Bus {
+  
     public static void main(String[] args) {
         String sentence = "The number of passengers :";
         int passengers=0;
